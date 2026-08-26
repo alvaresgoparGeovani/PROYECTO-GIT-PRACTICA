@@ -57,7 +57,7 @@ int main()
             }
         } while (!opcionValida);
     }
-    cout <<"Total de la compra: $"<< endl;
+    cout <<"Total de la compra"<< endl;
     cout << "Subtotal: $" << subtotal << endl;
 
     // Aplicar descuento si el subtotal supera los $200
